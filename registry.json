@@ -1,18 +1,8 @@
-[
-  {
-    "id": "spotify-addon",
-    "name": "Spotify Add-on",
-    "version": "1.0.0",
-    "author": "Ayush Sarkar",
-    "description": "Spotify metadata and stream provider for BitChord",
-    "url": "https://raw.githubusercontent.com/Ayush798035/bitchord-spotify-add-on/main/index.js"
-  },
-  {
-    "id": "apple-music",
-    "name": "Apple Music",
-    "version": "1.4.12",
-    "author": "SpotiFLAC",
-    "description": "Apple Music metadata and lyrics provider",
-    "url": "https://raw.githubusercontent.com/spotiflacapp/spotiflac-extension/main/apple-music.json"
-  }
-]
+{
+  "id": "spotify-addon",
+  "name": "Spotify Add-on",
+  "version": "1.0.0",
+  "author": "Ayush Sarkar",
+  "description": "Spotify metadata and stream provider for BitChord",
+  "url": "https://raw.githubusercontent.com/Ayush798035/bitchord-spotify-add-on/main/index.js"
+}
