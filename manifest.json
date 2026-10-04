@@ -1,43 +1,8 @@
 {
-  "name": "Custom Providers",
-  "author": "Ayush",
-  "version": "1.0.0",
-  "description": "Unified streaming sources for BitChord",
-  "sources": [
-    {
-      "name": "Spotify Web",
-      "id": "spotify-web",
-      "url": "https://raw.githubusercontent.com/zarzet/SpotiFLAC-Extension/main/extensions/spotify-web.sflx"
-    },
-    {
-      "name": "Amazon Music",
-      "id": "amazon-music",
-      "url": "https://raw.githubusercontent.com/zarzet/SpotiFLAC-Extension/main/extensions/amzn.sflx"
-    },
-    {
-      "name": "Apple Music",
-      "id": "apple-music",
-      "url": "https://raw.githubusercontent.com/zarzet/SpotiFLAC-Extension/main/extensions/apple-music.sflx"
-    },
-    {
-      "name": "SoundCloud",
-      "id": "soundcloud",
-      "url": "https://raw.githubusercontent.com/zarzet/SpotiFLAC-Extension/main/extensions/soundcloud.sflx"
-    },
-    {
-      "name": "Deezer",
-      "id": "deezer",
-      "url": "https://raw.githubusercontent.com/zarzet/SpotiFLAC-Extension/main/extensions/deezer.sflx"
-    },
-    {
-      "name": "Qobuz",
-      "id": "qobuz-web",
-      "url": "https://raw.githubusercontent.com/zarzet/SpotiFLAC-Extension/main/extensions/qobuz-web.sflx"
-    },
-    {
-      "name": "Tidal",
-      "id": "tidal-web",
-      "url": "https://raw.githubusercontent.com/zarzet/SpotiFLAC-Extension/main/extensions/tidal-web.sflx"
-    }
-  ]
+  "id": "spotify-web",
+  "name": "Spotify Web",
+  "display_name": "Spotify Web",
+  "version": "1.10.2",
+  "description": "Spotify metadata and stream provider",
+  "download_url": "https://raw.githubusercontent.com/zarzet/SpotiFLAC-Extension/main/extensions/spotify-web.sflx"
 }
