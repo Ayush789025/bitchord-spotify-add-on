@@ -1,0 +1,58 @@
+[
+  {
+    "id": "spotify-web",
+    "name": "Spotify Web",
+    "version": "1.10.2",
+    "author": "zarzet",
+    "description": "Spotify metadata and stream provider",
+    "url": "https://raw.githubusercontent.com/zarzet/SpotiFLAC-Extension/main/extensions/spotify-web.sflx"
+  },
+  {
+    "id": "amazon-music",
+    "name": "Amazon Music",
+    "version": "2.3.11",
+    "author": "zarzet",
+    "description": "Amazon Music metadata and stream provider",
+    "url": "https://raw.githubusercontent.com/zarzet/SpotiFLAC-Extension/main/extensions/amzn.sflx"
+  },
+  {
+    "id": "apple-music",
+    "name": "Apple Music",
+    "version": "1.4.12",
+    "author": "zarzet",
+    "description": "Apple Music metadata and stream provider",
+    "url": "https://raw.githubusercontent.com/zarzet/SpotiFLAC-Extension/main/extensions/apple-music.sflx"
+  },
+  {
+    "id": "soundcloud",
+    "name": "SoundCloud",
+    "version": "1.0.10",
+    "author": "zarzet",
+    "description": "SoundCloud tracks and stream provider",
+    "url": "https://raw.githubusercontent.com/zarzet/SpotiFLAC-Extension/main/extensions/soundcloud.sflx"
+  },
+  {
+    "id": "deezer",
+    "name": "Deezer",
+    "version": "1.3.5",
+    "author": "zarzet",
+    "description": "Deezer metadata and lossless stream provider",
+    "url": "https://raw.githubusercontent.com/zarzet/SpotiFLAC-Extension/main/extensions/deezer.sflx"
+  },
+  {
+    "id": "qobuz-web",
+    "name": "Qobuz",
+    "version": "1.2.18",
+    "author": "zarzet",
+    "description": "Qobuz metadata and Hi-Res stream provider",
+    "url": "https://raw.githubusercontent.com/zarzet/SpotiFLAC-Extension/main/extensions/qobuz-web.sflx"
+  },
+  {
+    "id": "tidal-web",
+    "name": "Tidal",
+    "version": "1.2.7",
+    "author": "zarzet",
+    "description": "Tidal metadata and stream provider",
+    "url": "https://raw.githubusercontent.com/zarzet/SpotiFLAC-Extension/main/extensions/tidal-web.sflx"
+  }
+]

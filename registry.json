@@ -1,8 +1,0 @@
-{
-  "id": "spotify-addon",
-  "name": "Spotify Add-on",
-  "version": "1.0.0",
-  "author": "Ayush Sarkar",
-  "description": "Spotify metadata and stream provider for BitChord",
-  "url": "https://raw.githubusercontent.com/Ayush798035/bitchord-spotify-add-on/main/index.js"
-}
